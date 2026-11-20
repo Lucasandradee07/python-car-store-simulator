@@ -1,0 +1,344 @@
+[
+    {
+        "marca": "BMW",
+        "nome": "BMW 320I GP 2026",
+        "preco": 354950.0,
+        "estoque": 3
+    },
+    {
+        "marca": "BMW",
+        "nome": "BMW 320I SPORT GP 2026",
+        "preco": 368950.0,
+        "estoque": 7
+    },
+    {
+        "marca": "BMW",
+        "nome": "BMW 320I M SPORT 2026",
+        "preco": 390950.0,
+        "estoque": 5
+    },
+    {
+        "marca": "BMW",
+        "nome": "BMW M135 XDRIVE 2026",
+        "preco": 459950.0,
+        "estoque": 3
+    },
+    {
+        "marca": "BMW",
+        "nome": "BMW M235 XDRIVE 2026",
+        "preco": 489950.0,
+        "estoque": 3
+    },
+    {
+        "marca": "BMW",
+        "nome": "BMW 420I CABRIOLET M SPORT 2026",
+        "preco": 508950.0,
+        "estoque": 2
+    },
+    {
+        "marca": "BMW",
+        "nome": "BMW I4 M50 2026",
+        "preco": 675950.0,
+        "estoque": 2
+    },
+    {
+        "marca": "BMW",
+        "nome": "BMW M2 COUPÉ",
+        "preco": 686950.0,
+        "estoque": 2
+    },
+    {
+        "marca": "BMW",
+        "nome": "BMW M3 COMPETITION 2026",
+        "preco": 894950.0,
+        "estoque": 3
+    },
+    {
+        "marca": "BMW",
+        "nome": "BMW 330E M SPORT 2026",
+        "preco": 465950.0,
+        "estoque": 2
+    },
+    {
+        "marca": "BMW",
+        "nome": "BMW X1 SDRIVE20I M SPORT 2026",
+        "preco": 385950.0,
+        "estoque": 5
+    },
+    {
+        "marca": "BMW",
+        "nome": "BMW X4 M40I 2026",
+        "preco": 659000.0,
+        "estoque": 3
+    },
+    {
+        "marca": "BMW",
+        "nome": "BMW X5 XDRIVE50E M SPORT 2026",
+        "preco": 864950.0,
+        "estoque": 3
+    },
+    {
+        "marca": "BMW",
+        "nome": "BMW X6 XDRIVE40I M SPORT 2026",
+        "preco": 887950.0,
+        "estoque": 3
+    },
+    {
+        "marca": "BMW",
+        "nome": "BMW X6 M COMPETITION 2026",
+        "preco": 1250000.0,
+        "estoque": 1
+    },
+    {
+        "marca": "BMW",
+        "nome": "BMW X7 M60I 2026",
+        "preco": 1199950.0,
+        "estoque": 2
+    },
+    {
+        "marca": "BMW",
+        "nome": "BMW X3 30 XDRIVE M SPORT 2026",
+        "preco": 515950.0,
+        "estoque": 3
+    },
+    {
+        "marca": "BMW",
+        "nome": "BMW I7 XDRIVE60 M SPORT 2026",
+        "preco": 1373950.0,
+        "estoque": 2
+    },
+    {
+        "marca": "AUDI",
+        "nome": "AUDI A3 SEDAN ADVANCED 2026",
+        "preco": 314990.0,
+        "estoque": 5
+    },
+    {
+        "marca": "AUDI",
+        "nome": "AUDI A3 SEDAN PERFOMANCE 2026",
+        "preco": 339990.0,
+        "estoque": 5
+    },
+    {
+        "marca": "AUDI",
+        "nome": "AUDI A3 SEDAN PERFORMANCE BLACK 2026",
+        "preco": 369990.0,
+        "estoque": 7
+    },
+    {
+        "marca": "AUDI",
+        "nome": "AUDI A5 SEDAN S LINE 2026",
+        "preco": 424990.0,
+        "estoque": 3
+    },
+    {
+        "marca": "AUDI",
+        "nome": "AUDI A6 PERFORMANCE BLACK 2026",
+        "preco": 649990.0,
+        "estoque": 3
+    },
+    {
+        "marca": "AUDI",
+        "nome": "AUDI Q3 SUV LAUNCH EDITION 2026",
+        "preco": 389990.0,
+        "estoque": 5
+    },
+    {
+        "marca": "AUDI",
+        "nome": "AUDI Q5 SUV 2026",
+        "preco": 513990.0,
+        "estoque": 3
+    },
+    {
+        "marca": "AUDI",
+        "nome": "AUDI Q6 SUV E-TRON 2026",
+        "preco": 695990.0,
+        "estoque": 3
+    },
+    {
+        "marca": "AUDI",
+        "nome": "AUDI Q7 S-LINE V6 2026",
+        "preco": 729990.0,
+        "estoque": 2
+    },
+    {
+        "marca": "AUDI",
+        "nome": "AUDI Q8 PERFORMANCE BLACK 2026",
+        "preco": 819990.0,
+        "estoque": 2
+    },
+    {
+        "marca": "AUDI",
+        "nome": "AUDI RS3 SEDAN 2026",
+        "preco": 659990.0,
+        "estoque": 3
+    },
+    {
+        "marca": "AUDI",
+        "nome": "AUDI RS6 AVANT 2026",
+        "preco": 1251990.0,
+        "estoque": 2
+    },
+    {
+        "marca": "AUDI",
+        "nome": "AUDI RS E-TRON GT 2026",
+        "preco": 1334990.0,
+        "estoque": 2
+    },
+    {
+        "marca": "MERCEDES-BENZ",
+        "nome": "MERCEDES-BENZ C200 AMG 2026",
+        "preco": 396900.0,
+        "estoque": 5
+    },
+    {
+        "marca": "MERCEDES-BENZ",
+        "nome": "MERCEDES-BENZ AMG C63 S 2026",
+        "preco": 928900.0,
+        "estoque": 3
+    },
+    {
+        "marca": "MERCEDES-BENZ",
+        "nome": "MERCEDES-BENZ E300 2026",
+        "preco": 623900.0,
+        "estoque": 3
+    },
+    {
+        "marca": "MERCEDES-BENZ",
+        "nome": "MERCEDES-BENZ C300 AMG 2026",
+        "preco": 459900.0,
+        "estoque": 5
+    },
+    {
+        "marca": "MERCEDES-BENZ",
+        "nome": "MERCEDES-BENZ AMG S 63 2026",
+        "preco": 1731900.0,
+        "estoque": 2
+    },
+    {
+        "marca": "MERCEDES-BENZ",
+        "nome": "MERCEDES-BENZ GLA 200 2026",
+        "preco": 362900.0,
+        "estoque": 5
+    },
+    {
+        "marca": "MERCEDES-BENZ",
+        "nome": "MERCEDES-BENZ GLB 220 2026",
+        "preco": 381900.0,
+        "estoque": 3
+    },
+    {
+        "marca": "MERCEDES-BENZ",
+        "nome": "MERCEDES-BENZ GLC 300 2026",
+        "preco": 527900.0,
+        "estoque": 2
+    },
+    {
+        "marca": "MERCEDES-BENZ",
+        "nome": "MERCEDES-BENZ GLC 300 COUPÉ 2026",
+        "preco": 542900.0,
+        "estoque": 2
+    },
+    {
+        "marca": "MERCEDES-BENZ",
+        "nome": "MERCEDES-BENZ GLE 450 D 2026",
+        "preco": 784900.0,
+        "estoque": 2
+    },
+    {
+        "marca": "MERCEDES-BENZ",
+        "nome": "MERCEDES-BENZ GLE 450 D COUPÉ 2026",
+        "preco": 859900.0,
+        "estoque": 3
+    },
+    {
+        "marca": "MERCEDES-BENZ",
+        "nome": "MERCEDES-BENZ CLA 200 2026",
+        "preco": 304900.0,
+        "estoque": 5
+    },
+    {
+        "marca": "MERCEDES-BENZ",
+        "nome": "MERCEDES-BENZ AMG A 45 S 2026",
+        "preco": 619900.0,
+        "estoque": 3
+    },
+    {
+        "marca": "PORSCHE",
+        "nome": "PORSCHE MACAN 4 2026",
+        "preco": 690000.0,
+        "estoque": 5
+    },
+    {
+        "marca": "PORSCHE",
+        "nome": "PORSCHE CAYENNE ELETRIC 2026",
+        "preco": 900000.0,
+        "estoque": 4
+    },
+    {
+        "marca": "PORSCHE",
+        "nome": "PORSCHE 718 CAYMAN GTS 4.0 2026",
+        "preco": 755000.0,
+        "estoque": 3
+    },
+    {
+        "marca": "PORSCHE",
+        "nome": "PORSCHE TAYCAN GTS 2026",
+        "preco": 1110000.0,
+        "estoque": 2
+    },
+    {
+        "marca": "PORSCHE",
+        "nome": "PORSCHE PANAMERA 4 E-HYBRID 2026",
+        "preco": 990000.0,
+        "estoque": 2
+    },
+    {
+        "marca": "PORSCHE",
+        "nome": "PORSCHE 911 CARRERA 2026",
+        "preco": 990000.0,
+        "estoque": 3
+    },
+    {
+        "marca": "PORSCHE",
+        "nome": "PORSCHE 911 CARRERA CABRIOLET 2026",
+        "preco": 1040000.0,
+        "estoque": 2
+    },
+    {
+        "marca": "VOLVO",
+        "nome": "VOLVO EX30 2026",
+        "preco": 239950.0,
+        "estoque": 3
+    },
+    {
+        "marca": "VOLVO",
+        "nome": "VOLVO EX40 2026",
+        "preco": 329950.0,
+        "estoque": 3
+    },
+    {
+        "marca": "VOLVO",
+        "nome": "VOLVO XC60 2026",
+        "preco": 459950.0,
+        "estoque": 3
+    },
+    {
+        "marca": "VOLVO",
+        "nome": "VOLVO EC40 2026",
+        "preco": 334950.0,
+        "estoque": 2
+    },
+    {
+        "marca": "VOLVO",
+        "nome": "VOLVO EX90 2026",
+        "preco": 849950.0,
+        "estoque": 1
+    },
+    {
+        "marca": "VOLVO",
+        "nome": "VOLVO XC90 2026",
+        "preco": 679950.0,
+        "estoque": 1
+    }
+]
