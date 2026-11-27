@@ -19,9 +19,7 @@ Projeto desenvolvido individualmente para fins de estudo e prática de Engenhari
 Abaixo estão os registros do sistema em execução: 
 
 * **Execução no Terminal:**
-*(Cole o print do terminal aqui com Ctrl+V)*
-* **Protótipo da Interface Gráfica (Tkinter):**
-*(Cole o print da janela Tkinter aqui com Ctrl+V ou apague esta linha se não tiver)*
+* <img width="1139" height="1029" alt="Evidencia_projeto" src="https://github.com/user-attachments/assets/e87c076b-fd37-4909-9add-bd1987455379" />
 
 #### Registro Breve de Evolução
 
